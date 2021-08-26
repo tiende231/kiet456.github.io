@@ -1,0 +1,230 @@
+@charset "utf-8";
+body{
+    margin: 0;
+    color: blue;
+}
+#table1{
+    width: 100%;
+    height: 150px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+#table1 .cot1{
+    width: 270px;
+    height: 100px;
+    margin-left: 40px;
+    display: inline-block;
+    border: solid 2px black;
+    padding:7px;
+}
+#table1 .cot2{
+    width: 270px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 40px;
+    border: solid 2px black;
+    padding: 7px;
+}
+#table1 .cot3{
+    width: 270px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 40px;
+    border: solid 2px black;
+    padding: 7px;
+}
+#table1 .cot4{
+    width: 270px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 40px;
+    border: solid 2px black;
+    padding: 7px;
+}
+#div1{
+    width: 50%;
+    height: 50px;
+    float: left;
+    font-size: 30px;
+    padding-top: 15px;
+}
+#table1 .cot1 #div3{
+    width: 50%;
+    float: right;
+    font-size: 13px;
+    padding-top: 25px;
+}
+#table1 .cot1 #div2{
+    width: 50%;
+    height: 116px;
+    float: right;
+    text-align: center;
+    padding-top: 8px;
+}
+#div4{
+    width: 50%;
+    height: 50px;
+    float: left;
+    font-size: 30px;
+    padding-top: 15px;
+}
+#table1 .cot2 #div5{
+    width: 50%;
+    padding-top: 20px;
+    float: right;
+    text-align: center;
+}
+#table1 .cot2 #div6{
+    width: 50%;
+    float: right;
+    font-size: 13px;
+    padding-top: 25px;
+}
+#div7{
+    width: 50%;
+    height: 50px;
+    float: left;
+    font-size: 30px;
+    padding-top: 15px;
+}
+#table1 .cot3 #div8{
+    width: 50%;
+    padding-top: 10px;
+    float: right;
+    text-align: center;
+}
+#table1 .cot3 #div9{
+    width: 50%;
+    float: right;
+    font-size: 13px;
+    padding-top: 25px;
+}
+#div10{
+    width: 50%;
+    height: 50px;
+    float: left;
+    font-size: 30px;
+    padding-top: 15px;
+}
+#table1 .cot4 #div11{
+    width: 50%;
+    padding-top: 5px;
+    float: right;
+    text-align: center;
+}
+#table1 .cot4 #div12{
+    width: 50%;
+    float: right;
+    font-size: 13px;
+    padding-top: 25px;
+}
+#table2{
+    width: 1280px;
+    height: 350px;
+    border: solid blue 3px;
+    margin-left: 40px;
+    margin-top: 10px;
+    color: blue;
+}
+.dong1{
+    width: 1280px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+}
+.dong2{
+    width: 1200px;
+    height: 45px;
+    border: solid 1px black;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-color:gainsboro;
+}
+#tab1{
+    text-align: center;
+    width: 230px;
+    display: inline-block;
+    border-right: solid 1px black;
+    line-height: 45px;
+}
+#tab2{
+    text-align: center;
+    width: 250px;
+    display: inline-block;
+    border-right: solid 1px black;
+    line-height: 45px;
+}
+#tab3{
+    text-align: center;
+    width: 200px;
+    line-height: 45px;
+    display: inline-block;
+    border-right: solid 1px black;
+}
+#tab4{
+    text-align: center;
+    width: 200px;
+    line-height: 45px;
+    display: inline-block;
+    border-right: solid 1px black;
+}
+#tab5{
+    text-align: center;
+    width: 300px;
+    display: inline-block;
+    line-height: 45px;
+}
+.dong3{
+    width: 1200px;
+    height: 45px;
+    border: solid 1px black;
+    border-top: hidden;
+    margin-left: 40px;
+}
+#tab6{
+    text-align: center;
+    width: 230px;
+    display: inline-block;
+    border-right: solid 1px black;
+    line-height: 45px;
+}
+#tab7{
+    text-align: center;
+    width: 250px;
+    display: inline-block;
+    border-right: solid 1px black;
+    line-height: 45px;
+}
+#tab8{
+    text-align: center;
+    width: 200px;
+    line-height: 45px;
+    display: inline-block;
+    border-right: solid 1px black;
+}
+#tab9{
+    text-align: center;
+    width: 200px;
+    line-height: 45px;
+    display: inline-block;
+    border-right: solid 1px black;
+}
+#tab10{
+    text-align: center;
+    width: 300px;
+    line-height: 45px;
+    display: inline-block;
+}
+#tab10 img{
+    vertical-align: middle;
+}
+.dong4{
+    margin-top: 15px;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
